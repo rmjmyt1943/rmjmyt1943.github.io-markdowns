@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
+  <style>
+    .label { font: 13px sans-serif; fill: #222 }
+    .layer { fill: #f7fbff; stroke: #2383c6 }
+  </style>
+  <rect width="100%" height="100%" fill="#fff" />
+  <g transform="translate(40,20)">
+    <rect x="0" y="0" width="440" height="40" rx="4" class="layer" />
+    <text x="12" y="26" class="label">Content (images, video, captions)</text>
+    <rect x="0" y="60" width="440" height="40" rx="4" class="layer" />
+    <text x="12" y="86" class="label">Playback / Scheduling (CMS, players)</text>
+    <rect x="0" y="120" width="440" height="40" rx="4" class="layer" />
+    <text x="12" y="146" class="label">Signal &amp; Control (HDMI/SDI/Ethernet)</text>
+    <rect x="0" y="180" width="440" height="40" rx="4" class="layer" />
+    <text x="12" y="206" class="label">Display Hardware (LED/LCD/Projector)</text>
+  </g>
+</svg>

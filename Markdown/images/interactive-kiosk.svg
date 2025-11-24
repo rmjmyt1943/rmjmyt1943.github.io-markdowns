@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260">
+  <style>
+    .label { font: 13px sans-serif; fill: #222 }
+    .screen { fill: #f0f7fb; stroke: #2383c6 }
+    .touch { fill: #ffd166 }
+  </style>
+  <rect width="100%" height="100%" fill="#fff" />
+  <g transform="translate(60,30)">
+    <rect x="0" y="0" width="200" height="180" rx="8" class="screen" />
+    <circle cx="100" cy="80" r="28" fill="#2383c6" />
+    <text x="60" y="115" class="label" fill="#fff">Touch target</text>
+    <text x="0" y="210" class="label">Interactive kiosk example — design large touch targets for accessibility.</text>
+  </g>
+</svg>
